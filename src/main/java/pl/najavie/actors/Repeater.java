@@ -4,7 +4,6 @@ package pl.najavie.actors;
 import akka.actor.AbstractActor;
 import akka.actor.Props;
 import akka.japi.pf.ReceiveBuilder;
-import pl.najavie.utils.Command;
 import scala.PartialFunction;
 
 /**
